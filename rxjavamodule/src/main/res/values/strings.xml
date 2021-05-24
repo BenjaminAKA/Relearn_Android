@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RxJavaModule</string>
+    <string name="useBuffer">USEBUFFER</string>
+    <string name="useCompose">USECOMPOSE</string>
+    <string name="useConcat">USECONCAT</string>
+    <string name="useConcatArray">USECONCATARRAY</string>
+    <string name="useMergeArray">USEMERGEARRAY</string>
+    <string name="useThreadSwitch">USETHREADSWITCH</string>
+    <string name="useFilter">USEFILTER</string>
+    <string name="useFlatmap">USEFLATMAP</string>
+    <string name="useMyRxJava">USEMYRXJAVA</string>
+</resources>

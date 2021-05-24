@@ -1,0 +1,5 @@
+rootProject.name = "Relearn_Android"
+include ':app'
+include ':rxjavamodule'
+include ':videomodule'
+include ':jpusjmodule'

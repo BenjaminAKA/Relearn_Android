@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">recyclerviewmodule</string>
+    <string name="please_enter_your_name">please enter your name</string>
+    <string name="please_enter_your_tel">please enter your tel</string>
+    <string name="addmember">ADDMEMBER</string>
+    <string name="remove">REMOVE</string>
+</resources>

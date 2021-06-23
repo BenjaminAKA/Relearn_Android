@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/jpusjmodule" />
+            <option value="$PROJECT_DIR$/recyclerviewmodule" />
             <option value="$PROJECT_DIR$/rxjavamodule" />
             <option value="$PROJECT_DIR$/videomodule" />
           </set>
